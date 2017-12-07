@@ -1,3 +1,3 @@
 # Lightbox
 
-Gallery d'image développé en jQuery
+Gallerie d'image développé en jQuery
